@@ -1,0 +1,1 @@
+Move "mail.php" file to the theme root path (overwriting mail.php) and configure it, if you want send emails via SMTP
